@@ -1,0 +1,25 @@
+{
+  "name": "test_task_m_stroy",
+  "version": "0.0.1",
+  "description": "This is a test assignment for Mstroy",
+  "main": "v2.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "ts-node v2.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krasmagk/testTaskMstroy.git"
+  },
+  "keywords": [
+    "tree",
+    "treeNode",
+    "testTask"
+  ],
+  "author": "krastelev.anton@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krasmagk/testTaskMstroy/issues"
+  },
+  "homepage": "https://github.com/krasmagk/testTaskMstroy#readme"
+}
